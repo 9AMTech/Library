@@ -1,5 +1,5 @@
 # Project6-Library
-Moving folders from The Odin Project Repo to be a standalone repo.
+## A CRUD-Type Library App
 
 ### Made By : Ahmad Mughrabi
 
