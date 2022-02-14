@@ -1,7 +1,5 @@
 # Project6-Library
 Moving folders from The Odin Project Repo to be a standalone repo.
-# Project1-Recipes
-## Extremely Simple Recipe Page
 
 ### Made By : Ahmad Mughrabi
 
