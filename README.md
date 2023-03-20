@@ -1,4 +1,4 @@
-# Project6-Library
+# Library
 ## A CRUD-Type Library App
 
 ### Made By : Ahmad Mughrabi
@@ -7,7 +7,7 @@
 https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/library#assignment
 
 ### Website Page
-https://9amtech.github.io/Project6-Library/
+https://9amtech.github.io/Library/
 
 #### Description
 On this Library Project, the goal ultimately was to create a CRUD app but without the database. 
